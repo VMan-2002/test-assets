@@ -1,0 +1,12 @@
+{
+  "announcements": [
+    {
+      "id": "test1",
+      "type": "announcement",
+      "title": "Announcement Title",
+      "message": "Announcement Message",
+      "link": "http://www.google.com",
+      "active": true
+    }
+  ]
+}
